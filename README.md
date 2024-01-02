@@ -1,4 +1,5 @@
 # Predicting student performance using Polynomial and Decision Tree Regression
+This project is a part of the course CS-C3240 – Machine Learning D, Period I, Fall 2023. This project studies how one could predict the SAT scores of students based on various prospects in their lives, and thus gain insight on how to achieve the highest mark statistically.
 
 ## Dataset description
 The data set consists of 1000 hypothetical datapoints, each of which contains scores from three standardized exams and a variety of personal, social, and economic factors that have interaction effects upon them. 
